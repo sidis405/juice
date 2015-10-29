@@ -1,0 +1,32 @@
+{
+  "name": "juice",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Bower Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidis405/juice.git"
+  },
+  "keywords": [
+    "Elixir",
+    "Bower",
+    "laravel",
+    "Juice"
+  ],
+  "author": "Malander & Forge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidis405/juice/issues"
+  },
+  "homepage": "https://github.com/sidis405/juice#readme",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-bower": "0.0.10",
+    "gulp-bower-normalize": "^1.0.6",
+    "main-bower-files": "^2.9.0",
+    "underscore": "^1.7.0"
+  }
+}
