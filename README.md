@@ -1,13 +1,13 @@
 ##Juice
 
 ```
-$ npm install juice --save-dev
+$ npm install elixir-juice --save-dev
 ```
 
 ```
 var elixir = require('laravel-elixir');
  
-require('juice');
+require('elixir-juice');
  
 elixir(function (mix) {
  
